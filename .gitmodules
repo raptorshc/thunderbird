@@ -1,0 +1,6 @@
+[submodule "hardware"]
+	path = hardware
+	url = https://github.com/raptorshc/hardware.git
+[submodule "software"]
+	path = software
+	url = https://github.com/raptorshc/software.git
