@@ -4,3 +4,6 @@
 [submodule "software"]
 	path = software
 	url = https://github.com/raptorshc/software.git
+[submodule "mechanical"]
+	path = mechanical
+	url = https://github.com/raptorshc/mechanical.git
